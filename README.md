@@ -1,6 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/2WJ_92e5)
 # :wave: The Basics of GitHub 
 
+Submission 2!
+
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
